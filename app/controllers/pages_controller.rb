@@ -23,6 +23,12 @@ class PagesController < ApplicationController
   def learning
   end
 
+  def managerteam2
+  end
+
+  def creditmanager2
+  end
+
   def credit
   end
 
